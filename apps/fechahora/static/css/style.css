@@ -1,0 +1,23 @@
+h1 {
+    color: orangered;
+    display: block;
+    text-align: center;
+    border: 3px solid orangered;
+    margin: 30px 330px 0 330px;
+    padding: 50px;
+}
+
+h2 {
+    color: blue;
+    display: block;
+    text-align: center;
+    border: 2px solid blue;
+    margin: 0 350px 0 350px;
+    padding: 50px;
+}
+
+.lugar {
+    margin-left: 47%;
+    color: blue;
+    text-align: center;
+}
